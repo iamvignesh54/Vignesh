@@ -1,5 +1,3 @@
 Test Doc
 
 New line added
-
-Added a line in GitHub
